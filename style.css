@@ -700,8 +700,9 @@ section {
 
 .feedback-card img {
     width: 100%;
-    height: auto;
+    height: 450px;
     object-fit: cover;
+    object-position: bottom;
 }
 
 /* ==========================================================================
